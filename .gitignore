@@ -1,5 +1,11 @@
 .nfs*
 
+# YJL
+*.jpg
+*.png
+*.csv
+*.json
+
 # compilation and distribution
 __pycache__
 _ext
